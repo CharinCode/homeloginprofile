@@ -17,5 +17,5 @@ samples, guidance on mobile development, and a full API reference.
 "# homeloginprofile" 
 
 ### Auth UI
-![Preview UI](/login.png)
-![App UI](/wl.png)
+![Preview UI](image/login.png)
+![App UI](image/wl.png)
